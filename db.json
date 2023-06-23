@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "title": "React Events",
+      "content": "Just like HTML DOM events, React can perform actions based on user events.\n\nReact has the same events as HTML: click, change, mouseover etc.\n\n",
+      "created_at": "5/27/2023",
+      "id": 3
+    },
+    {
+      "title": "React JSX",
+      "content": "JSX stands for JavaScript XML.\n\nJSX allows us to write HTML in React.\n\nJSX makes it easier to write and add HTML in React.",
+      "created_at": "5/27/2023",
+      "id": 5
+    },
+    {
+      "title": "React Lists",
+      "content": "In React, you will render lists with some type of loop.\n\nThe JavaScript map() array method is generally the preferred method.",
+      "created_at": "5/27/2023",
+      "id": 6
+    }
+  ]
+}
